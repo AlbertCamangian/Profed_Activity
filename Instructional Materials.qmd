@@ -1,0 +1,118 @@
+---
+title: "Instructional Materials"
+author: "Alberto M. Camangian"
+format: html
+editor: visual
+---
+
+In this lesson, you will be introduced to the concept of borrowing money and the simple interest that is derived from borrowing. You will also be introduced to terms such as principal, amount, rate of interest, and time period. Through these terms, you can calculate simple interest using the simple interest formula.
+
+# Simple Interest
+
+Simple interest is the interest in which only the original principal bears interest for the entire term of the loan. Here, the principal and the present value are equal.
+
+## Terms used in Simple interest
+
+-   **Debtor or Maker.** The person who borrows money for any purpose.
+-   **Lender.** The person or institution which loans the money.
+-   **Interest (I).** The payment for the use of borrowed money.
+-   **Principal (P).** The capital or sum of money invested.
+-   **Rate of Interest (r).** The fractional part of the principal that is paid on the loan and is usually express in percent (%).
+-   **Time or Term.** The number of units (days, months, years) of the time for which the money is borrowed and for which interest is calculated.
+-   **Final Amount or Maturity Value (F).** The sum of the principal and the interest which is accumulated at a certain time.
+-   **Present Value or Proceeds (Pro).** The amount received by the borrower.
+
+\
+**Simple Interest** is defined as the product of principal, rate, and time. In symbol, $$I=Prt$$
+
+**Other formulas** $$P=\frac {I}{rt};\;\;\;\;\; r=\frac {I}{Pt};\;\;\;\;\; t=\frac {I}{Pr}$$ **Final Amount Formula** $$F=P+I$$ $$or$$ $$F=P(1+rt)$$ where: $I$= simple interest;  $P$= principal;  $r$= rate;  $t$= time
+
+\
+**The term or time (**$t$) may be stated in any of the following ways:
+
+-   When the time ($t$) is expressed in number of year(s), the formula will be: $$I=P\cdot r \cdot number \; of \; year(s)$$
+
+-   When the time ($t$) is expressed in number of months(s) $$I=P\cdot r\cdot \frac {number\;of\;month(s)}{12}$$
+
+## Example:
+\
+1)  Find the interest and amount on ₱800.00 at $6\frac{1}{2}$% simple interest for 5 years.
+
+**Solution:**
+
+Given:
+$\;\;\;\;\;$ $P$= ₱800.00, $\;\;\;\;\;$ $r$= 6.5% or 0.065, $\;\;\;\;\;$ $t$= 5 years 
+
+
+To find the interest we have this formula,
+$$I=Prt$$
+By substitution we have, 
+$$\begin{aligned} I &=800(0.065)(5)\\ I&= 260 \end{aligned}$$
+Final amount:
+$$\begin{aligned} F &=I+P \\ F &=260+800 \\ F &=1060\end{aligned}$$
+**Hence, the final amount is ₱1,060.00.**
+
+\
+2) A principal earns interest of ₱385.00 in 2 years and 9 months at a simple interest rate of $9\frac{1}{2}$%. Find the principal invested.
+
+**Solution:**
+
+Given:
+$\;\;\;\;\;$ $I$= ₱385.00, $\;\;\;\;\;$ $r$= 9.5% or 0.095, $\;\;\;\;\;$ $t$= $2\frac{9}{12}$ or 2.75 years 
+
+To find the principal value we have this formula,
+$$P=\frac{I}{rt}$$
+By substitution we have, 
+
+\begin{aligned} 
+P &= \frac {385}{(0.095)(2.75)}\\ &= \frac {385}{0.26125}\\ P &= 1473.68
+
+\end{aligned}
+
+**Hence, the principal amount is ₱1,473.68.**
+
+\
+3) How long will it take for ₱2,400.00 to earn ₱2,000.00, if it is invested at $6\frac{1}{2}$% simple interest?
+
+**Solution:**
+
+Given:
+$\;\;\;\;\;$ $P$= ₱2,400.00, $\;\;\;\;\;$ $r$= 6.5% or 0.065, $\;\;\;\;\;$ $I$= ₱2,000.00
+
+To find the time ($t$) we have this formula, 
+$$t=\frac{I}{Pr}$$
+
+By substitution we have, 
+
+\begin{aligned} 
+t &= \frac{I}{Pr} \\
+&=\frac {2,000}{2,400(0.065)} \\
+t &= 12.82
+
+\end{aligned}
+
+Hence, **12.82 years** will it take for ₱2,400.00 to earn ₱2,000.00, if it is invested at $6\frac{1}{2}$% simple interest.
+
+\
+4) If a principal of ₱2,500.00 earns interest of ₱185.00 in 3 years and 3 months, what is the interest rate, is in effect?
+
+**Solution:**
+
+Given:
+$\;\;\;\;\;$ $P$= ₱2,500.00, $\;\;\;\;\;$ $I$= ₱185.00, $\;\;\;\;\;$ $t$= $3\frac{3}{12}$ or 3.25 years
+
+To find the interest rate ($r$) we have this formula, 
+$$r=\frac{I}{Pt}$$
+
+By substitution we have, 
+
+\begin{aligned} 
+r &= \frac{I}{Pt} \\
+&=\frac {185}{2,500(3.25)} \\
+r &= 2.28\;\%
+
+\end{aligned}
+
+**Hence, the interest rate is 2.28%.**
+
+
